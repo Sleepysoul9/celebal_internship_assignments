@@ -1,0 +1,11 @@
+# Ignore practice notebooks
+installing_packages.ipynb
+list_tuples.ipynb
+loops.ipynb
+python_basics.ipynb
+reading_files.ipynb
+
+# Ignore raw data files that aren't part of the assignment submission
+datas/data.csv
+datas/iris.csv
+datas/deduced.csv
