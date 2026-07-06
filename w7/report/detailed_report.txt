@@ -1,0 +1,205 @@
+# Delta Lake Assignment Report
+
+## Title
+
+**Incremental Data Processing using Delta Lake in Databricks**
+
+---
+
+# Objective
+
+The objective of this assignment was to understand and implement incremental data processing using Delta Lake in the Databricks Free Edition (Serverless). The assignment involved creating a customer dataset, performing data cleaning operations, simulating incremental data updates, applying the Delta Lake MERGE operation, and validating the final output to ensure data consistency.
+
+---
+
+# Introduction
+
+Delta Lake is an open-source storage layer that extends Apache Spark by providing ACID transactions, schema enforcement, scalable metadata handling, and efficient data management capabilities. It enables reliable data engineering workflows by supporting operations such as UPDATE, DELETE, and MERGE directly on large datasets.
+
+In this assignment, Delta Lake was used to simulate a real-world customer database where new customer records are periodically added and existing customer information is updated. The assignment demonstrates how Delta Lake simplifies incremental data processing while maintaining data integrity.
+
+---
+
+# Dataset Creation
+
+A synthetic customer master dataset was generated using PySpark.
+
+The dataset contained approximately **500 customer records** with the following attributes:
+
+* Customer ID
+* First Name
+* Last Name
+* Email Address
+* Phone Number
+* City
+
+To simulate real-world data quality issues, the dataset intentionally included:
+
+* Duplicate customer records
+* Null email values
+* Invalid email addresses
+
+Twenty duplicate records were added intentionally, resulting in a total of **520 records** before data cleaning.
+
+---
+
+# Data Loading
+
+The generated dataset was loaded into a managed Delta table in the Databricks Free Edition environment.
+
+Using Delta tables allows efficient storage and supports transactional operations such as updates, inserts, and merges without requiring manual file management.
+
+---
+
+# Data Cleaning
+
+Before performing incremental processing, the dataset was cleaned to improve data quality.
+
+The following cleaning operations were performed:
+
+* Duplicate customer records were removed using Customer ID.
+* Records containing null email addresses were removed.
+* Records with invalid email formats were filtered out using a regular expression.
+
+After performing these cleaning operations:
+
+* Initial Records: **520**
+* Records after Cleaning: **453**
+
+The cleaned dataset was then stored as a separate Delta table for further processing.
+
+---
+
+# Incremental Dataset Generation
+
+To simulate incoming data from a production environment, a second dataset containing **100 records** was created.
+
+The incremental dataset consisted of two categories:
+
+### Updated Records
+
+* 50 existing customer records
+* Updated phone numbers
+* Updated city information
+
+These records represented existing customers whose information had changed.
+
+### New Records
+
+* 50 completely new customer records
+* New Customer IDs
+* New customer details
+
+These records represented new customers entering the system.
+
+---
+
+# MERGE Operation
+
+The core objective of the assignment was implemented using the Delta Lake **MERGE** operation.
+
+The MERGE command compared customer records using **Customer ID** as the primary key.
+
+The operation performed the following actions:
+
+* Existing customer records were updated with the latest information.
+* New customer records were inserted into the master table.
+
+This approach demonstrates incremental data processing without recreating the entire dataset.
+
+---
+
+# Validation
+
+After completing the MERGE operation, validation checks were performed to verify data integrity.
+
+The following validations were carried out:
+
+### Row Count Validation
+
+The final dataset contained **503 records**.
+
+Calculation:
+
+* Cleaned Dataset = 453 Records
+* New Records Added = 50 Records
+* Existing Records Updated = 50 Records (no increase in row count)
+
+Final Row Count:
+
+**453 + 50 = 503**
+
+### Duplicate Validation
+
+Customer IDs were checked for duplicates after the merge operation.
+
+Result:
+
+* Duplicate Customer IDs = **0**
+
+### Distinct Customer Validation
+
+The number of distinct Customer IDs matched the total row count.
+
+Result:
+
+* Distinct Customer IDs = **503**
+
+These validations confirmed that the merge operation executed successfully without introducing duplicate records.
+
+---
+
+# Results
+
+| Metric                   | Value |
+| ------------------------ | ----: |
+| Initial Dataset Rows     |   520 |
+| Cleaned Dataset Rows     |   453 |
+| Incremental Dataset Rows |   100 |
+| Existing Records Updated |    50 |
+| New Records Inserted     |    50 |
+| Final Dataset Rows       |   503 |
+| Duplicate Customer IDs   |     0 |
+
+---
+
+# Technologies Used
+
+The following technologies were used to complete the assignment:
+
+* Databricks Free Edition (Serverless)
+* Apache Spark
+* PySpark
+* Delta Lake
+* Python
+
+---
+
+# Key Concepts Learned
+
+During this assignment, the following concepts were understood and implemented:
+
+* Creating synthetic datasets using PySpark
+* Loading data into Delta Lake tables
+* Data cleaning and preprocessing
+* Handling duplicate and invalid records
+* Incremental data processing
+* Delta Lake MERGE operation
+* Data validation using Spark SQL and PySpark
+* Working with managed Delta tables in Databricks Free Edition
+
+---
+
+# Conclusion
+
+This assignment successfully demonstrated the implementation of incremental data processing using Delta Lake.
+
+A master customer dataset containing intentional data quality issues was created and loaded into a Delta table. The dataset was cleaned by removing duplicate records and invalid entries. An incremental dataset containing both updated and new customer records was generated to simulate real-world business scenarios.
+
+Using the Delta Lake MERGE operation, existing records were updated while new records were inserted efficiently into the master dataset. Finally, validation checks confirmed that the processed dataset contained the expected number of records without any duplicate customer IDs.
+
+Overall, the assignment provided practical experience in using Delta Lake for efficient, reliable, and scalable incremental data processing in a modern data engineering workflow.
+
+---
+
+
