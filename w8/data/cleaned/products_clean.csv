@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+PROD0001,Dining Table,Home,Furniture,691.21
+PROD0002,Kurti,Clothing,Women,3740.12
+PROD0003,Jeans,Clothing,Men,3719.16
+PROD0004,Lamp,Home,Decor,4904.5
+PROD0005,Dress,Clothing,Women,1868.32
+PROD0006,Pressure Cooker,Home,Kitchen,1444.13
+PROD0007,Power Bank,Electronics,Accessories,3517.35
+PROD0008,Kids Shoes,Clothing,Kids,602.68
+PROD0009,Power Bank,Electronics,Accessories,2400.05
+PROD0010,Mystery Novel,Books,Fiction,4830.94
+PROD0011,Office Chair,Home,Furniture,4128.37
+PROD0012,Mystery Novel,Books,Fiction,2927.4
+PROD0013,Galaxy S24,Electronics,Mobile,4074.6
+PROD0014,Pressure Cooker,Home,Kitchen,680.41
+PROD0015,Manga Volume,Books,Comics,3974.63
+PROD0016,Kids Shoes,Clothing,Kids,2307.52
+PROD0017,Thriller Novel,Books,Fiction,4951.15
+PROD0018,Wall Clock,Home,Decor,3087.19
+PROD0019,Galaxy S24,Electronics,Mobile,1396.77
+PROD0020,Galaxy S24,Electronics,Mobile,951.69
+PROD0021,Iphone 15,Electronics,Mobile,2101.74
+PROD0022,Mystery Novel,Books,Fiction,1234.23
+PROD0023,Mirror,Home,Decor,448.78
+PROD0024,Sweater,Clothing,Women,3339.8
+PROD0025,Kurti,Clothing,Women,2768.36
+PROD0026,Dress,Clothing,Women,449.91
+PROD0027,Sweater,Clothing,Women,3769.89
+PROD0028,Office Chair,Home,Furniture,2396.62
+PROD0029,Mirror,Home,Decor,4719.11
+PROD0030,Mystery Novel,Books,Fiction,3030.38
+PROD0031,Batman Comic,Books,Comics,3058.2
+PROD0032,Galaxy S24,Electronics,Mobile,4813.36
+PROD0033,Power Bank,Electronics,Accessories,2923.61
+PROD0034,Sweater,Clothing,Women,3292.4
+PROD0035,Frying Pan,Home,Kitchen,3210.45
+PROD0036,Dbms,Books,Education,1805.01
+PROD0037,Office Chair,Home,Furniture,4302.89
+PROD0038,Sofa,Home,Furniture,1512.27
+PROD0039,Marvel Comic,Books,Comics,2328.65
+PROD0040,Bookshelf,Home,Furniture,668.02
+PROD0041,Marvel Comic,Books,Comics,3322.54
+PROD0042,Mystery Novel,Books,Fiction,1019.15
+PROD0043,Mirror,Home,Decor,3164.5
+PROD0044,Oneplus 13,Electronics,Mobile,2791.18
+PROD0045,Sofa,Home,Furniture,694.99
+PROD0046,Kids Shorts,Clothing,Kids,1622.68
+PROD0047,Usb Hub,Electronics,Accessories,556.73
+PROD0048,Macbook Air,Electronics,Laptop,3273.78
+PROD0049,Top,Clothing,Women,2593.47
+PROD0050,Sofa,Home,Furniture,4903.2
+PROD0051,Sweater,Clothing,Women,808.75
+PROD0052,Kids Shorts,Clothing,Kids,4333.73
+PROD0053,Bookshelf,Home,Furniture,4677.82
+PROD0054,Knife Set,Home,Kitchen,3657.65
+PROD0055,Dbms,Books,Education,2739.04
+PROD0056,Sofa,Home,Furniture,2331.19
+PROD0057,Pressure Cooker,Home,Kitchen,2901.81
+PROD0058,Kurti,Clothing,Women,1659.06
+PROD0059,Batman Comic,Books,Comics,1991.79
+PROD0060,Kurti,Clothing,Women,718.61
+PROD0061,Frying Pan,Home,Kitchen,588.59
+PROD0062,Data Structures,Books,Education,2108.9
+PROD0063,Jacket,Clothing,Men,3929.47
+PROD0064,Sofa,Home,Furniture,3284.2
+PROD0065,Mirror,Home,Decor,4775.28
+PROD0066,Marvel Comic,Books,Comics,3125.55
+PROD0067,Kids Jacket,Clothing,Kids,4987.39
+PROD0068,Macbook Air,Electronics,Laptop,3825.81
+PROD0069,Dell Xps,Electronics,Laptop,3500.61
+PROD0070,Oneplus 13,Electronics,Mobile,4001.1
+PROD0071,Bookshelf,Home,Furniture,2210.37
+PROD0072,Kids Shoes,Clothing,Kids,2873.05
+PROD0073,Jeans,Clothing,Men,486.94
+PROD0074,Manga Volume,Books,Comics,1280.07
+PROD0075,Jacket,Clothing,Men,3225.73
+PROD0076,Thriller Novel,Books,Fiction,146.05
+PROD0077,Thriller Novel,Books,Fiction,2778.33
+PROD0078,Hp Pavilion,Electronics,Laptop,4939.49
+PROD0079,Mirror,Home,Decor,3482.54
+PROD0080,Mystery Novel,Books,Fiction,4996.93
+PROD0081,Data Structures,Books,Education,1968.69
+PROD0082,Lamp,Home,Decor,4964.19
+PROD0083,Frying Pan,Home,Kitchen,1444.95
+PROD0084,Usb Hub,Electronics,Accessories,4180.91
+PROD0085,Knife Set,Home,Kitchen,1173.12
+PROD0086,Kids Jacket,Clothing,Kids,3421.05
+PROD0087,Kids T-Shirt,Clothing,Kids,4526.68
+PROD0088,Lenovo Thinkpad,Electronics,Laptop,263.49
+PROD0089,Flower Vase,Home,Decor,541.65
+PROD0090,Sofa,Home,Furniture,960.64
+PROD0091,Kids Jacket,Clothing,Kids,2701.18
+PROD0092,Knife Set,Home,Kitchen,4578.84
+PROD0093,Thriller Novel,Books,Fiction,4364.95
+PROD0094,Macbook Air,Electronics,Laptop,789.71
+PROD0095,Kids Shoes,Clothing,Kids,4839.62
+PROD0096,Frying Pan,Home,Kitchen,168.2
+PROD0097,Hp Pavilion,Electronics,Laptop,3396.86
+PROD0098,Mirror,Home,Decor,4129.84
+PROD0099,Pressure Cooker,Home,Kitchen,2410.24
+PROD0100,Flower Vase,Home,Decor,3273.5
+PROD0101,Batman Comic,Books,Comics,3281.27
+PROD0102,Iphone 15,Electronics,Mobile,4736.68
+PROD0103,Office Chair,Home,Furniture,576.24
+PROD0104,Jeans,Clothing,Women,1917.96
+PROD0105,Manga Volume,Books,Comics,3660.34
+PROD0106,Marvel Comic,Books,Comics,4185.1
+PROD0107,Mystery Novel,Books,Fiction,3482.38
+PROD0108,Jeans,Clothing,Women,4757.72
+PROD0109,Knife Set,Home,Kitchen,2767.88
+PROD0110,Frying Pan,Home,Kitchen,1451.82
+PROD0111,Macbook Air,Electronics,Laptop,3347.57
+PROD0112,Oneplus 13,Electronics,Mobile,1293.49
+PROD0113,Kids Shorts,Clothing,Kids,436.19
+PROD0114,Kids Shorts,Clothing,Kids,4083.96
+PROD0115,Dress,Clothing,Women,3964.35
+PROD0116,Dell Xps,Electronics,Laptop,4938.88
+PROD0117,Mixer,Home,Kitchen,3339.18
+PROD0118,Iphone 15,Electronics,Mobile,1855.39
+PROD0119,Kids Jacket,Clothing,Kids,177.33
+PROD0120,Pressure Cooker,Home,Kitchen,3734.42
+PROD0121,Wireless Mouse,Electronics,Accessories,2433.61
+PROD0122,Wall Clock,Home,Decor,2314.83
+PROD0123,Kids T-Shirt,Clothing,Kids,3663.49
+PROD0124,Office Chair,Home,Furniture,398.04
+PROD0125,Fantasy Book,Books,Fiction,3461.88
+PROD0126,Batman Comic,Books,Comics,460.1
+PROD0127,Asus Vivobook,Electronics,Laptop,826.84
+PROD0128,Sweater,Clothing,Women,3202.08
+PROD0129,Bookshelf,Home,Furniture,2323.21
+PROD0130,Python Programming,Books,Education,4278.68
+PROD0131,Jeans,Clothing,Women,4451.65
+PROD0132,Fantasy Book,Books,Fiction,2053.78
+PROD0133,Lenovo Thinkpad,Electronics,Laptop,1631.37
+PROD0134,Dining Table,Home,Furniture,3465.42
+PROD0135,Python Programming,Books,Education,4175.68
+PROD0136,Macbook Air,Electronics,Laptop,3748.49
+PROD0137,Mixer,Home,Kitchen,2973.68
+PROD0138,Wall Clock,Home,Decor,2112.96
+PROD0139,Marvel Comic,Books,Comics,4845.15
+PROD0140,Office Chair,Home,Furniture,2931.8
+PROD0141,Jacket,Clothing,Men,1198.8
+PROD0142,Asus Vivobook,Electronics,Laptop,1901.05
+PROD0143,Flower Vase,Home,Decor,4055.38
+PROD0144,Power Bank,Electronics,Accessories,241.87
+PROD0145,Lamp,Home,Decor,4615.53
+PROD0146,Pressure Cooker,Home,Kitchen,4362.33
+PROD0147,Data Structures,Books,Education,3730.75
+PROD0148,Nothing Phone,Electronics,Mobile,1154.15
+PROD0149,Fantasy Book,Books,Fiction,871.31
+PROD0150,Lamp,Home,Decor,3906.49
+PROD0151,Galaxy S24,Electronics,Mobile,871.31
+PROD0152,Wireless Mouse,Electronics,Accessories,1433.3
+PROD0153,Thriller Novel,Books,Fiction,2266.02
+PROD0154,Mixer,Home,Kitchen,1791.35
+PROD0155,Asus Vivobook,Electronics,Laptop,2484.5
+PROD0156,Pressure Cooker,Home,Kitchen,2036.79
+PROD0157,Galaxy S24,Electronics,Mobile,1576.95
+PROD0158,Shirt,Clothing,Men,1518.29
+PROD0159,Pixel 9,Electronics,Mobile,3760.37
+PROD0160,Jacket,Clothing,Men,2709.65
+PROD0161,Kids Jacket,Clothing,Kids,453.17
+PROD0162,Macbook Air,Electronics,Laptop,2352.8
+PROD0163,Asus Vivobook,Electronics,Laptop,2203.49
+PROD0164,Manga Volume,Books,Comics,2146.7
+PROD0165,Macbook Air,Electronics,Laptop,4834.38
+PROD0166,Kids Shoes,Clothing,Kids,4176.93
+PROD0167,Frying Pan,Home,Kitchen,4237.97
+PROD0168,Sweater,Clothing,Women,2062.2
+PROD0169,Hp Pavilion,Electronics,Laptop,3754.44
+PROD0170,Dress,Clothing,Women,474.26
+PROD0171,Keyboard,Electronics,Accessories,1050.13
+PROD0172,Dining Table,Home,Furniture,1257.72
+PROD0173,Dress,Clothing,Women,950.15
+PROD0174,Kids T-Shirt,Clothing,Kids,968.02
+PROD0175,Thriller Novel,Books,Fiction,3823.4
+PROD0176,Manga Volume,Books,Comics,3250.66
+PROD0177,Lamp,Home,Decor,839.69
+PROD0178,Lenovo Thinkpad,Electronics,Laptop,3193.79
+PROD0179,Wall Clock,Home,Decor,1824.52
+PROD0180,Lenovo Thinkpad,Electronics,Laptop,2314.38
+PROD0181,Hp Pavilion,Electronics,Laptop,475.98
+PROD0182,Keyboard,Electronics,Accessories,2584.63
+PROD0183,Manga Volume,Books,Comics,4775.73
+PROD0184,Asus Vivobook,Electronics,Laptop,3294.0
+PROD0185,Mirror,Home,Decor,2556.7
+PROD0186,Macbook Air,Electronics,Laptop,4073.74
+PROD0187,Wall Clock,Home,Decor,2572.29
+PROD0188,Jeans,Clothing,Men,3567.35
+PROD0189,Manga Volume,Books,Comics,3088.05
+PROD0190,Bookshelf,Home,Furniture,1998.34
+PROD0191,Wall Clock,Home,Decor,3967.21
+PROD0192,Knife Set,Home,Kitchen,563.08
+PROD0193,Fantasy Book,Books,Fiction,3646.29
+PROD0194,Kurti,Clothing,Women,2955.42
+PROD0195,Top,Clothing,Women,4841.71
+PROD0196,Python Programming,Books,Education,1616.95
+PROD0197,Batman Comic,Books,Comics,4084.61
+PROD0198,Usb Hub,Electronics,Accessories,2591.59
+PROD0199,Hp Pavilion,Electronics,Laptop,983.29
+PROD0200,Jeans,Clothing,Women,1040.83
+PROD0201,T-Shirt,Clothing,Men,1549.38
+PROD0202,Keyboard,Electronics,Accessories,4192.09
+PROD0203,Power Bank,Electronics,Accessories,4394.32
+PROD0204,Kids Shoes,Clothing,Kids,855.84
+PROD0205,Kids Shorts,Clothing,Kids,3633.8
+PROD0206,Hp Pavilion,Electronics,Laptop,3414.18
+PROD0207,Sweater,Clothing,Women,1496.15
+PROD0208,Data Structures,Books,Education,1616.39
+PROD0209,Operating Systems,Books,Education,3423.7
+PROD0210,Fantasy Book,Books,Fiction,3912.81
+PROD0211,Data Structures,Books,Education,4026.17
+PROD0212,Kurti,Clothing,Women,3241.78
+PROD0213,Wall Clock,Home,Decor,3585.86
+PROD0214,Macbook Air,Electronics,Laptop,3839.27
+PROD0215,Dining Table,Home,Furniture,4172.13
+PROD0216,Pixel 9,Electronics,Mobile,4434.69
+PROD0217,Macbook Air,Electronics,Laptop,2042.62
+PROD0218,Frying Pan,Home,Kitchen,4973.17
+PROD0219,Mixer,Home,Kitchen,1661.56
+PROD0220,Power Bank,Electronics,Accessories,3977.77
+PROD0221,Shirt,Clothing,Men,4595.24
+PROD0222,Marvel Comic,Books,Comics,3818.32
+PROD0223,Thriller Novel,Books,Fiction,125.73
+PROD0224,Oneplus 13,Electronics,Mobile,1156.71
+PROD0225,Kids Shoes,Clothing,Kids,644.82
+PROD0226,Knife Set,Home,Kitchen,697.06
+PROD0227,Sweater,Clothing,Women,2339.86
+PROD0228,Asus Vivobook,Electronics,Laptop,2726.66
+PROD0229,Kids Shorts,Clothing,Kids,1527.23
+PROD0230,Power Bank,Electronics,Accessories,1278.76
+PROD0231,Python Programming,Books,Education,2665.07
+PROD0232,Mixer,Home,Kitchen,2013.22
+PROD0233,Dbms,Books,Education,4907.09
+PROD0234,Wall Clock,Home,Decor,1849.76
+PROD0235,Dell Xps,Electronics,Laptop,3691.41
+PROD0236,Power Bank,Electronics,Accessories,753.71
+PROD0237,Lamp,Home,Decor,4086.19
+PROD0238,Kids Shoes,Clothing,Kids,4906.01
+PROD0239,Marvel Comic,Books,Comics,4076.34
+PROD0240,Usb Hub,Electronics,Accessories,281.22
+PROD0241,Jeans,Clothing,Men,4440.37
+PROD0242,Sofa,Home,Furniture,4946.7
+PROD0243,Mystery Novel,Books,Fiction,3791.13
+PROD0244,Top,Clothing,Women,4324.48
+PROD0245,Power Bank,Electronics,Accessories,1438.76
+PROD0246,Sofa,Home,Furniture,3742.21
+PROD0247,Mystery Novel,Books,Fiction,2531.4
+PROD0248,Thriller Novel,Books,Fiction,1406.93
+PROD0249,Usb Hub,Electronics,Accessories,486.74
+PROD0250,Kids Jacket,Clothing,Kids,1673.94
+PROD0251,Hp Pavilion,Electronics,Laptop,1601.83
+PROD0252,Dbms,Books,Education,1822.58
+PROD0253,Power Bank,Electronics,Accessories,3112.77
+PROD0254,Thriller Novel,Books,Fiction,4902.13
+PROD0255,Pixel 9,Electronics,Mobile,1880.22
+PROD0256,Jeans,Clothing,Men,4258.48
+PROD0257,Data Structures,Books,Education,429.44
+PROD0258,Sofa,Home,Furniture,4752.39
+PROD0259,Bluetooth Speaker,Electronics,Accessories,3427.4
+PROD0260,Sofa,Home,Furniture,3839.11
+PROD0261,Kids Jacket,Clothing,Kids,2050.37
+PROD0262,Mixer,Home,Kitchen,226.98
+PROD0263,Sweater,Clothing,Women,1996.24
+PROD0264,Hp Pavilion,Electronics,Laptop,3549.79
+PROD0265,Kids Jacket,Clothing,Kids,3500.51
+PROD0266,Python Programming,Books,Education,765.07
+PROD0267,Dell Xps,Electronics,Laptop,4503.53
+PROD0268,Operating Systems,Books,Education,3372.41
+PROD0269,Keyboard,Electronics,Accessories,1522.78
+PROD0270,Pressure Cooker,Home,Kitchen,3989.11
+PROD0271,Jeans,Clothing,Men,3981.12
+PROD0272,Kurti,Clothing,Women,1868.39
+PROD0273,Dining Table,Home,Furniture,3098.55
+PROD0274,Oneplus 13,Electronics,Mobile,2050.98
+PROD0275,Batman Comic,Books,Comics,3868.91
+PROD0276,Oneplus 13,Electronics,Mobile,3247.46
+PROD0277,Thriller Novel,Books,Fiction,2635.06
+PROD0278,Kids Shorts,Clothing,Kids,3862.13
+PROD0279,Sweater,Clothing,Women,4562.49
+PROD0280,Nothing Phone,Electronics,Mobile,849.78
+PROD0281,Shirt,Clothing,Men,4680.22
+PROD0282,Sweater,Clothing,Women,4485.14
+PROD0283,Dell Xps,Electronics,Laptop,3211.78
+PROD0284,Knife Set,Home,Kitchen,3110.7
+PROD0285,Bluetooth Speaker,Electronics,Accessories,2999.86
+PROD0286,Hoodie,Clothing,Men,3631.1
+PROD0287,Wall Clock,Home,Decor,4143.66
+PROD0288,Iphone 15,Electronics,Mobile,4747.88
+PROD0289,Flower Vase,Home,Decor,3858.1
+PROD0290,Manga Volume,Books,Comics,248.4
+PROD0291,Lamp,Home,Decor,2466.43
+PROD0292,Fantasy Book,Books,Fiction,457.57
+PROD0293,Pixel 9,Electronics,Mobile,2136.55
+PROD0294,Operating Systems,Books,Education,3072.64
+PROD0295,Lamp,Home,Decor,3697.58
+PROD0296,Dining Table,Home,Furniture,3827.26
+PROD0297,Dell Xps,Electronics,Laptop,2385.72
+PROD0298,Dining Table,Home,Furniture,790.3
+PROD0299,Lenovo Thinkpad,Electronics,Laptop,4334.4
+PROD0300,Data Structures,Books,Education,4086.04
+PROD0301,Pressure Cooker,Home,Kitchen,2541.5
+PROD0302,Fantasy Book,Books,Fiction,2537.11
+PROD0303,Asus Vivobook,Electronics,Laptop,2340.43
+PROD0304,Hoodie,Clothing,Men,1829.19
+PROD0305,Lenovo Thinkpad,Electronics,Laptop,3027.84
+PROD0306,Thriller Novel,Books,Fiction,140.07
+PROD0307,Dell Xps,Electronics,Laptop,4424.03
+PROD0308,Bookshelf,Home,Furniture,321.69
+PROD0309,Keyboard,Electronics,Accessories,1053.81
+PROD0310,Frying Pan,Home,Kitchen,2570.85
+PROD0311,Wall Clock,Home,Decor,730.45
+PROD0312,Hp Pavilion,Electronics,Laptop,3995.0
+PROD0313,Lamp,Home,Decor,3799.33
+PROD0314,Kids Shoes,Clothing,Kids,2550.38
+PROD0315,Galaxy S24,Electronics,Mobile,3596.6
+PROD0316,Batman Comic,Books,Comics,829.81
+PROD0317,Sweater,Clothing,Women,1660.8
+PROD0318,Manga Volume,Books,Comics,4228.75
+PROD0319,Mirror,Home,Decor,3572.83
+PROD0320,Office Chair,Home,Furniture,1904.95
+PROD0321,Asus Vivobook,Electronics,Laptop,1607.62
+PROD0322,Usb Hub,Electronics,Accessories,1401.1
+PROD0323,Kids T-Shirt,Clothing,Kids,2959.26
+PROD0324,Kids Shoes,Clothing,Kids,824.1
+PROD0325,Hoodie,Clothing,Men,4746.21
+PROD0326,Iphone 15,Electronics,Mobile,2261.09
+PROD0327,Dbms,Books,Education,3483.45
+PROD0328,Manga Volume,Books,Comics,4610.55
+PROD0329,Bluetooth Speaker,Electronics,Accessories,2641.55
+PROD0330,Mirror,Home,Decor,2674.84
+PROD0331,Frying Pan,Home,Kitchen,4569.41
+PROD0332,Lamp,Home,Decor,3411.76
+PROD0333,Mirror,Home,Decor,1042.09
+PROD0334,Sweater,Clothing,Women,1562.65
+PROD0335,Dining Table,Home,Furniture,3482.18
+PROD0336,Fantasy Book,Books,Fiction,1809.14
+PROD0337,Office Chair,Home,Furniture,2910.04
+PROD0338,Fantasy Book,Books,Fiction,4777.58
+PROD0339,Kurti,Clothing,Women,1509.39
+PROD0340,Lenovo Thinkpad,Electronics,Laptop,3314.26
+PROD0341,Data Structures,Books,Education,4156.96
+PROD0342,Lamp,Home,Decor,772.64
+PROD0343,T-Shirt,Clothing,Men,3382.19
+PROD0344,Kids Shorts,Clothing,Kids,357.21
+PROD0345,Thriller Novel,Books,Fiction,2414.78
+PROD0346,Hoodie,Clothing,Men,4891.76
+PROD0347,Jeans,Clothing,Women,2439.5
+PROD0348,Top,Clothing,Women,1498.54
+PROD0349,Nothing Phone,Electronics,Mobile,1237.88
+PROD0350,Pixel 9,Electronics,Mobile,4423.0
+PROD0351,Jacket,Clothing,Men,3961.01
+PROD0352,Kids Jacket,Clothing,Kids,4396.04
+PROD0353,Asus Vivobook,Electronics,Laptop,3053.64
+PROD0354,Sofa,Home,Furniture,4946.59
+PROD0355,Dbms,Books,Education,1436.9
+PROD0356,Dell Xps,Electronics,Laptop,3682.48
+PROD0357,Flower Vase,Home,Decor,169.01
+PROD0358,Dining Table,Home,Furniture,959.93
+PROD0359,Thriller Novel,Books,Fiction,1706.84
+PROD0360,Marvel Comic,Books,Comics,1005.43
+PROD0361,Top,Clothing,Women,4685.54
+PROD0362,Lenovo Thinkpad,Electronics,Laptop,1254.05
+PROD0363,Bookshelf,Home,Furniture,2954.06
+PROD0364,Hp Pavilion,Electronics,Laptop,3494.57
+PROD0365,Wireless Mouse,Electronics,Accessories,2380.44
+PROD0366,Sweater,Clothing,Women,4623.22
+PROD0367,Wall Clock,Home,Decor,3229.69
+PROD0368,Dining Table,Home,Furniture,1173.73
+PROD0369,Dress,Clothing,Women,2329.4
+PROD0370,Sofa,Home,Furniture,3811.02
+PROD0371,Hoodie,Clothing,Men,4378.36
+PROD0372,Usb Hub,Electronics,Accessories,2688.05
+PROD0373,Mixer,Home,Kitchen,402.61
+PROD0374,Kids Shorts,Clothing,Kids,906.23
+PROD0375,Data Structures,Books,Education,3612.9
+PROD0376,Dbms,Books,Education,4062.59
+PROD0377,Dbms,Books,Education,2338.31
+PROD0378,Usb Hub,Electronics,Accessories,3396.56
+PROD0379,Wall Clock,Home,Decor,2040.15
+PROD0380,Bluetooth Speaker,Electronics,Accessories,2933.73
+PROD0381,Hp Pavilion,Electronics,Laptop,3531.89
+PROD0382,Pixel 9,Electronics,Mobile,255.5
+PROD0383,Data Structures,Books,Education,3852.56
+PROD0384,Fantasy Book,Books,Fiction,2297.83
+PROD0385,Mystery Novel,Books,Fiction,3445.38
+PROD0386,Kids Jacket,Clothing,Kids,681.3
+PROD0387,Marvel Comic,Books,Comics,3666.5
+PROD0388,T-Shirt,Clothing,Men,4894.6
+PROD0389,Manga Volume,Books,Comics,2767.78
+PROD0390,Data Structures,Books,Education,2357.06
+PROD0391,Dress,Clothing,Women,4693.31
+PROD0392,Pixel 9,Electronics,Mobile,3113.12
+PROD0393,Galaxy S24,Electronics,Mobile,429.73
+PROD0394,Asus Vivobook,Electronics,Laptop,3392.92
+PROD0395,Iphone 15,Electronics,Mobile,2071.1
+PROD0396,Kids Shorts,Clothing,Kids,3796.49
+PROD0397,Nothing Phone,Electronics,Mobile,4968.07
+PROD0398,Kids Jacket,Clothing,Kids,2929.63
+PROD0399,Knife Set,Home,Kitchen,4393.67
+PROD0400,Top,Clothing,Women,1448.25
+PROD0401,Kids Shoes,Clothing,Kids,2823.67
+PROD0402,Lenovo Thinkpad,Electronics,Laptop,3950.44
+PROD0403,Mirror,Home,Decor,2100.47
+PROD0404,Dining Table,Home,Furniture,3796.64
+PROD0405,Data Structures,Books,Education,1573.61
+PROD0406,Kurti,Clothing,Women,2855.69
+PROD0407,Manga Volume,Books,Comics,757.05
+PROD0408,Dress,Clothing,Women,1718.29
+PROD0409,Hp Pavilion,Electronics,Laptop,553.07
+PROD0410,Shirt,Clothing,Men,1948.12
+PROD0411,Galaxy S24,Electronics,Mobile,4042.79
+PROD0412,Dress,Clothing,Women,4360.42
+PROD0413,Office Chair,Home,Furniture,1137.86
+PROD0414,Kids T-Shirt,Clothing,Kids,3759.71
+PROD0415,Data Structures,Books,Education,2043.5
+PROD0416,Kids Jacket,Clothing,Kids,3900.02
+PROD0417,Thriller Novel,Books,Fiction,3278.73
+PROD0418,Bookshelf,Home,Furniture,2612.8
+PROD0419,Mystery Novel,Books,Fiction,4033.8
+PROD0420,Mystery Novel,Books,Fiction,1916.45
+PROD0421,Data Structures,Books,Education,3732.14
+PROD0422,Asus Vivobook,Electronics,Laptop,4680.32
+PROD0423,Mystery Novel,Books,Fiction,1061.34
+PROD0424,Sweater,Clothing,Women,4183.48
+PROD0425,Manga Volume,Books,Comics,4722.98
+PROD0426,Sofa,Home,Furniture,4835.89
+PROD0427,Mystery Novel,Books,Fiction,3690.58
+PROD0428,Pressure Cooker,Home,Kitchen,3629.54
+PROD0429,Python Programming,Books,Education,2667.33
+PROD0430,Wireless Mouse,Electronics,Accessories,3845.26
+PROD0431,Data Structures,Books,Education,433.04
+PROD0432,Jeans,Clothing,Men,2578.09
+PROD0433,Frying Pan,Home,Kitchen,3330.49
+PROD0434,Nothing Phone,Electronics,Mobile,2803.05
+PROD0435,Nothing Phone,Electronics,Mobile,3638.74
+PROD0436,Frying Pan,Home,Kitchen,4050.22
+PROD0437,T-Shirt,Clothing,Men,2669.49
+PROD0438,Hoodie,Clothing,Men,2679.63
+PROD0439,Sofa,Home,Furniture,487.19
+PROD0440,Thriller Novel,Books,Fiction,1291.72
+PROD0441,Kurti,Clothing,Women,3303.31
+PROD0442,Pixel 9,Electronics,Mobile,1958.39
+PROD0443,Python Programming,Books,Education,3543.94
+PROD0444,Lenovo Thinkpad,Electronics,Laptop,3260.05
+PROD0445,Wall Clock,Home,Decor,4484.48
+PROD0446,Galaxy S24,Electronics,Mobile,4516.24
+PROD0447,Mystery Novel,Books,Fiction,4628.38
+PROD0448,Wall Clock,Home,Decor,978.84
+PROD0449,Pressure Cooker,Home,Kitchen,2976.48
+PROD0450,Operating Systems,Books,Education,896.01
+PROD0451,Kids Shoes,Clothing,Kids,3417.47
+PROD0452,Dining Table,Home,Furniture,3973.44
+PROD0453,Power Bank,Electronics,Accessories,363.11
+PROD0454,Python Programming,Books,Education,1768.9
+PROD0455,Mystery Novel,Books,Fiction,3207.2
+PROD0456,Mystery Novel,Books,Fiction,1843.47
+PROD0457,Mystery Novel,Books,Fiction,3430.5
+PROD0458,Operating Systems,Books,Education,4010.47
+PROD0459,Oneplus 13,Electronics,Mobile,855.68
+PROD0460,Kids Shoes,Clothing,Kids,1651.72
+PROD0461,Iphone 15,Electronics,Mobile,4720.51
+PROD0462,Fantasy Book,Books,Fiction,600.93
+PROD0463,Pixel 9,Electronics,Mobile,2299.33
+PROD0464,Python Programming,Books,Education,539.13
+PROD0465,Keyboard,Electronics,Accessories,3943.75
+PROD0466,Operating Systems,Books,Education,2127.67
+PROD0467,Keyboard,Electronics,Accessories,4535.52
+PROD0468,Kids Shorts,Clothing,Kids,3458.05
+PROD0469,Shirt,Clothing,Men,1575.54
+PROD0470,Python Programming,Books,Education,919.32
+PROD0471,Bookshelf,Home,Furniture,2472.73
+PROD0472,Hp Pavilion,Electronics,Laptop,4726.69
+PROD0473,Manga Volume,Books,Comics,1058.19
+PROD0474,Oneplus 13,Electronics,Mobile,133.16
+PROD0475,Thriller Novel,Books,Fiction,1961.46
+PROD0476,Bookshelf,Home,Furniture,2210.02
+PROD0477,Top,Clothing,Women,3055.74
+PROD0478,Top,Clothing,Women,970.42
+PROD0479,Fantasy Book,Books,Fiction,3700.88
+PROD0480,Marvel Comic,Books,Comics,1696.84
+PROD0481,Bookshelf,Home,Furniture,658.05
+PROD0482,Kids Shorts,Clothing,Kids,3440.39
+PROD0483,Usb Hub,Electronics,Accessories,4720.58
+PROD0484,Top,Clothing,Women,4173.28
+PROD0485,Lenovo Thinkpad,Electronics,Laptop,781.98
+PROD0486,Knife Set,Home,Kitchen,3327.45
+PROD0487,Mystery Novel,Books,Fiction,2300.43
+PROD0488,Batman Comic,Books,Comics,2718.4
+PROD0489,Marvel Comic,Books,Comics,3974.53
+PROD0490,Wall Clock,Home,Decor,635.91
+PROD0491,Kids Jacket,Clothing,Kids,915.06
+PROD0492,Usb Hub,Electronics,Accessories,4837.37
+PROD0493,Office Chair,Home,Furniture,151.68
+PROD0494,Pressure Cooker,Home,Kitchen,2284.31
+PROD0495,Thriller Novel,Books,Fiction,2984.09
+PROD0496,Kurti,Clothing,Women,2465.58
+PROD0497,Office Chair,Home,Furniture,668.74
+PROD0498,Top,Clothing,Women,1781.03
+PROD0499,Kids Shoes,Clothing,Kids,1806.67
+PROD0500,Lenovo Thinkpad,Electronics,Laptop,1662.66

@@ -1,0 +1,9 @@
+
+DATA QUALITY REPORT
+===================
+
+Null Customer IDs      : 35
+Invalid Emails         : 12
+Negative Quantities    : 75
+Wrong Date Formats     : 35
+Broken Order References: 0
