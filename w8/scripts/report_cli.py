@@ -1,8 +1,11 @@
 import sqlite3
 from datetime import datetime, timedelta
 
-DB_PATH = "../database/ecommerce.db"
+from pathlib import Path
 
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+DB_PATH = BASE_DIR / "database" / "ecommerce.db"
 
 def get_report(period, start_date, end_date):
     conn = sqlite3.connect(DB_PATH)

@@ -1,6 +1,9 @@
 import sqlite3
+from pathlib import Path
 
-DB_PATH = "../database/ecommerce.db"
+BASE_DIR = Path(__file__).resolve().parent.parent
+
+DB_PATH = BASE_DIR / "database" / "ecommerce.db"
 
 
 def test_invalid_order_reference():
